@@ -1,3 +1,10 @@
 
 .ipynb_checkpoints/5.2-using-convnets-with-small-datasets-checkpoint.ipynb
 cats_and_dogs_small_1.h5
+cats_and_dogs_small_2.h5
+.ipynb_checkpoints/5.3-using-a-pretrained-convnet-checkpoint.ipynb
+*.h5
+.ipynb_checkpoints/5.4-visualizing-what-convnets-learn-checkpoint.ipynb
+.ipynb_checkpoints/6.1-one-hot-encoding-of-words-or-characters-checkpoint.ipynb
+.ipynb_checkpoints/6.1-using-word-embeddings-checkpoint.ipynb
+elephant_cam.jpg
